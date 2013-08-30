@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="sweeper"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="Utils"
+SUMMARY="KDE file remover"
+DESCRIPTION="Part of the KDE utilities suite"
