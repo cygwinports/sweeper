@@ -1,7 +1,7 @@
 inherit kde4
 
 NAME="sweeper"
-VERSION=4.14.3
+VERSION=14.12.3
 RELEASE=1
 CATEGORY="Utils"
 SUMMARY="KDE file remover"
